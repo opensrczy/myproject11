@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e6becd7347d1065002dbb4fe316d4307" label="File server request" max_length="40" name="x_16192_my_file_se_file_server_request" type="collection">
+        <element label="File Name" max_length="40" name="file_name" type="string"/>
+    </element>
+</database>
